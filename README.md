@@ -10,4 +10,4 @@ at my pace.
 * [Linux](./linux/README.md)
 * [Linux/Containers](./linux/containers/README.md)
 * [Linux/Containers/Docker](./linux/containers/docker/README.md)
-* [Linux/Containers/Kubernetes](./linux/kubernetes/README.md)
+* [Linux/Containers/Kubernetes](./linux/containers/kubernetes/README.md)
