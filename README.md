@@ -22,4 +22,3 @@ help others, which is why I created this.
 ### House
 * [House](./house/README.md)
 * [House/Plumbing](./house/plumbing/README.md)
-* 
