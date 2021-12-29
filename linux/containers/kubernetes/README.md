@@ -3,4 +3,11 @@
 ## Table of Contents
 
 * [Kubernetes Cheat Sheet](./k8s_cheat_sheet.md)
-* [Using Docker Images with Minikube](./k8s_using_docker_images_with_minikube.md)
+
+## General Notes
+
+### Local Development
+
+**Tip 1:** As of Dec 2021, avoid using Minikube because Docker for Desktop on Mac comes with Kubernetes built
+in, and you just need to go and turn it on.
+
