@@ -22,3 +22,11 @@ help others, which is why I created this.
 ### House
 * [House](./house/README.md)
 * [House/Plumbing](./house/plumbing/README.md)
+
+The following topics are things I want to write about:
+
+## Personal
+* [Personal/Being a Dad](./personal/being-a-dad/README.md)
+* [Personal/Being a Husband](./personal/being-a-husband/README.md)
+* [Personal/Being a Software Engineer](./personal/being-a-software-engineer/README.md)
+
