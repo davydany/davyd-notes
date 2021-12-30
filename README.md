@@ -29,4 +29,5 @@ The following topics are things I want to write about, but haven't had time to d
 * [Personal/Being a Dad](./personal/being-a-dad/README.md)
 * [Personal/Being a Husband](./personal/being-a-husband/README.md)
 * [Personal/Being a Software Engineer](./personal/being-a-software-engineer/README.md)
+* [Personal/Being a Human](./personal/being-a-human/README.md) - Thoughts on general life 
 
