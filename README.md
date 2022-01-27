@@ -14,11 +14,14 @@ help others, which is why I created this.
 ## Table of Contents
 
 ### Computing
+* [Computing/General/How Trust Works in Computing](./computing/general/how-trust-works-in-computing.md)
+* [Computing/General/Finding DoD's Trust Chain Certificates](./computing/general/dod-pkis-and-trust-chains.md)
 * [Computing/Linux](./computing/linux/README.md)
 * [Computing/Linux/Containers](./computing/linux/containers/README.md)
 * [Computing/Linux/Containers/Docker](./computing/linux/containers/docker/README.md)
 * [Computing/Linux/Containers/Kubernetes](./computing/linux/containers/kubernetes/README.md)
-* [Computing/MacOSX]
+* [Computing/MacOSX](./computing/macosx/README.md)
+* [Computing/MacOSX/Using Apple Silicon](./computing/macosx/using-apple-silicon.md)
 
 ### House
 * [House](./house/README.md)
