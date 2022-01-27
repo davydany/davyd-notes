@@ -14,10 +14,11 @@ help others, which is why I created this.
 ## Table of Contents
 
 ### Computing
-* [Linux](./linux/README.md)
-* [Linux/Containers](./linux/containers/README.md)
-* [Linux/Containers/Docker](./linux/containers/docker/README.md)
-* [Linux/Containers/Kubernetes](./linux/containers/kubernetes/README.md)
+* [Computing/Linux](./computing/linux/README.md)
+* [Computing/Linux/Containers](./computing/linux/containers/README.md)
+* [Computing/Linux/Containers/Docker](./computing/linux/containers/docker/README.md)
+* [Computing/Linux/Containers/Kubernetes](./computing/linux/containers/kubernetes/README.md)
+* [Computing/MacOSX]
 
 ### House
 * [House](./house/README.md)
