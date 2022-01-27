@@ -14,8 +14,8 @@ help others, which is why I created this.
 ## Table of Contents
 
 ### Computing
-* [Computing/General/How Trust Works in Computing](./computing/general/how-trust-works-in-computing.md)
-* [Computing/General/Finding DoD's Trust Chain Certificates](./computing/general/dod-pkis-and-trust-chains.md)
+* [Computing/General](./computing/general/README.md)
+* [Computing/General/PKI](./computing/general/pki/README.md)
 * [Computing/Linux](./computing/linux/README.md)
 * [Computing/Linux/Containers](./computing/linux/containers/README.md)
 * [Computing/Linux/Containers/Docker](./computing/linux/containers/docker/README.md)
