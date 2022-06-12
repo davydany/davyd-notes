@@ -13,6 +13,9 @@ help others, which is why I created this.
 
 ## Table of Contents
 
+# About Me
+* [My Resume](./2022-david-daniel-resume.pdf)
+
 ### Computing
 * [Computing/General](./computing/general/README.md)
 * [Computing/General/PKI](./computing/general/pki/README.md)
