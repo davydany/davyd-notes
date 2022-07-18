@@ -1,5 +1,4 @@
-# Mac OS Shortcuts without Custom 3rd Party Software
-
+# Window Management without 3rd Party Software
 Source: 
 * https://apple.stackexchange.com/a/386935
 * https://medium.com/ryan-hanson/going-without-a-3rd-party-window-manager-in-macos-catalina-4bd270b29245
