@@ -25,6 +25,7 @@ help others, which is why I created this.
 * [Computing/Linux/Containers/Kubernetes](./computing/linux/containers/kubernetes/README.md)
 * [Computing/MacOSX](./computing/macosx/README.md)
 * [Computing/MacOSX/Using Apple Silicon](./computing/macosx/using-apple-silicon.md)
+* [Computing/MacOSX/Window Management without 3rd Party Software](./computing/macosx/window-management-without-3rd-party-software.md)
 
 ### House
 * [House](./house/README.md)
