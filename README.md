@@ -13,8 +13,13 @@ help others, which is why I created this.
 
 ## Table of Contents
 
-# About Me
+### About Me
 * [My Resume](./2022-david-daniel-resume.pdf)
+* [Photography](https://www.instagram.com/davydphotos/)
+* [2019 Shelby GT350](https://www.instagram.com/davydgt350/)
+
+### General
+* [Laws](./general/laws-of-life.md)
 
 ### Computing
 * [Computing/General](./computing/general/README.md)
