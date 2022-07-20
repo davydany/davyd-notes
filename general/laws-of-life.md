@@ -4,17 +4,23 @@
 
 These are laws that I believe work in reality, and I wanted to share them
 
-### The Law of Complexity of Bugs
+### The Law of Complexity
 
-> The size of the bug you're trying to debug is inversely proportional to the time you are spending to find it
+> The size of the problem you're trying to figure out is inversely proportional to the time you are spending to figure 
+> it out.
 
-Basically, I believe that if a bug is a big bug, you'll discover the source of the bug quickly. Therefore, if you're 
+I kind of stumbled on this while working as a Software Engineer but it applies to every aspect of life. In debugging a 
+problem, if a bug is a big bug, you'll discover the source of the bug quickly. Therefore, if you're 
 spending a lot of time trying to find out where this bug is, chances are, it is a very small bug and which is why 
 you can't find it yet.
 
-I discovered this while trying to debug software applications.
+I discovered this while trying to debug software applications, but this applies to other aspects of life too. If you're 
+fixing an electrical or plumbing problem, this applies there too. 
 
-### People's Perceptions
+This applies to personal issues between people too! If you're trying to figure out why someone is being hard on you, 
+chances are, it is over some small trivial thing that you need to ask them questions to figure out the issue.
+
+### The Law of Perception
 
 > People perceive the world how they perceive themselves.
 
@@ -28,9 +34,9 @@ If someone you know is complaining that someone is out to get them, and they're 
 looking for ways to take advantage of another person. This is why they perceive the world as it is out to get them.
 
 
-### Regarding Smiling
+### The Smile Law
 
-> A smile goes a long way
+> A little smile goes a long way
 
 Start your conversations with anyone with a smile, and especially if it is a stranger. Getting rid of your bitch face 
 and starting with a smile helps them ease up and communicate more with you.
