@@ -17,9 +17,10 @@ help others, which is why I created this.
 * [My Resume](./2022-david-daniel-resume.pdf)
 * [Photography](https://www.instagram.com/davydphotos/)
 * [2019 Shelby GT350](https://www.instagram.com/davydgt350/)
+  
 
 ### General
-* [Laws](./general/laws-of-life.md)
+* [Laws of Life](./general/laws-of-life.md)
 
 ### Computing
 * [Computing/General](./computing/general/README.md)
@@ -35,3 +36,6 @@ help others, which is why I created this.
 ### House
 * [House](./house/README.md)
 * [House/Plumbing](./house/plumbing/README.md)
+
+
+Source: [You can find the source in Markdown here](github.com/davydany/davyd-notes)
