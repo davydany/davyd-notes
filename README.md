@@ -23,15 +23,24 @@ help others, which is why I created this.
 * [Laws of Life](./general/laws-of-life.md)
 
 ### Computing
+
+#### General Computing
 * [Computing/General](./computing/general/README.md)
 * [Computing/General/PKI](./computing/general/pki/README.md)
+
+#### Linux
 * [Computing/Linux](./computing/linux/README.md)
 * [Computing/Linux/Containers](./computing/linux/containers/README.md)
 * [Computing/Linux/Containers/Docker](./computing/linux/containers/docker/README.md)
 * [Computing/Linux/Containers/Kubernetes](./computing/linux/containers/kubernetes/README.md)
+
+#### Mac OS
 * [Computing/MacOSX](./computing/macosx/README.md)
 * [Computing/MacOSX/Using Apple Silicon](./computing/macosx/using-apple-silicon.md)
 * [Computing/MacOSX/Window Management without 3rd Party Software](./computing/macosx/window-management-without-3rd-party-software.md)
+
+#### Python
+* [Computing/Python/Code Coverage Between Branches](./code-coverage-between-branches.md)
 * [Computing/Python/Access pip-installed CLI Tools](./computing/python/access_pip_installed_cli_tools.md)
 
 ### House
