@@ -32,6 +32,7 @@ help others, which is why I created this.
 * [Computing/MacOSX](./computing/macosx/README.md)
 * [Computing/MacOSX/Using Apple Silicon](./computing/macosx/using-apple-silicon.md)
 * [Computing/MacOSX/Window Management without 3rd Party Software](./computing/macosx/window-management-without-3rd-party-software.md)
+* [Computing/Python/Access pip-installed CLI Tools](./computing/python/access_pip_installed_cli_tools.md)
 
 ### House
 * [House](./house/README.md)
