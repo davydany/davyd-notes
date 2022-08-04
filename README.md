@@ -40,7 +40,7 @@ help others, which is why I created this.
 * [Computing/MacOSX/Window Management without 3rd Party Software](./computing/macosx/window-management-without-3rd-party-software.md)
 
 #### Python
-* [Computing/Python/Code Coverage Between Branches](./code-coverage-between-branches.md)
+* [Computing/Python/Code Coverage Between Branches](./computing/python/code-coverage-between-branches.md)
 * [Computing/Python/Access pip-installed CLI Tools](./computing/python/access_pip_installed_cli_tools.md)
 
 ### House
