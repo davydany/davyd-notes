@@ -56,3 +56,22 @@ Missing: 28 lines
 Coverage: 88%
 -------------
 ```
+
+## Get it Quickly
+
+Run the following if you want to quickly get the code coverage of the new code
+you're adding between your branch and the latest on `master`, without doing
+much work:
+
+```
+diff-cover ./coverage.xml --compare-branch=$(git for-each-ref --sort=-committerdate refs/heads/master | cut -f 1 -d ' ')
+```
+
+Furthermore, you can add an alias to bash so you don't have to type this 
+everytime. 
+
+To do this, run:
+
+```bash
+alias newcodecov="diff-cover ./coverage.xml --compare-branch=$(git for-each-ref --sort=-committerdate refs/heads/master | cut -f 1 -d ' ')"
+```
