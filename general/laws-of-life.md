@@ -24,15 +24,11 @@ chances are, it is over some small trivial thing that you need to ask them quest
 
 > People perceive the world how they perceive themselves.
 
-I need to share an example to better explain this. The world has racism, and prejudice. This is a known problem and 
-humanity needs to go a long way to get out of it (believe me, I've been a victim of racism in the past). That being 
-said, there are folks I've met in my journey in life so far, who are quick to judge that someone is racist. The more 
-you get to know these people, you'll find out that they see someone as a racist because they themselves are somewhat 
-racist, and fail to admit it. 
-
-If someone you know is complaining that someone is out to get them, and they're the victim, then chances are they are 
-looking for ways to take advantage of another person. This is why they perceive the world as it is out to get them.
-
+In my experience, if someone is complaining about life all the time, chances are they see that complaint in themselves,
+and see the world the same way. Fixing how they perceive themselves, will help fixing how they perceive the world. This 
+holds true to our individual selves too. If you are finding an issue someone in life, just take a quick second to 
+see if it is really a bad thing, and if it is really an issue or if it is something that you just need to change your
+percetion on. Sometimes it might be a genuine issue with that person but it can also be just our perception.
 
 ### The Smile Law
 
